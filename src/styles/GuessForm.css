@@ -1,0 +1,21 @@
+.guess-form-wrapper {
+    display: flex;
+    gap: 10px;
+}
+
+.guess-form-input,
+.guess-form-button {
+    padding: 10px;
+}
+
+.guess-form-input {
+    font-size: 2rem;
+    width: 70%;
+    text-align: center;
+}
+
+.guess-form-button {
+    font-size: 1.2rem;
+    width: 30%;
+    cursor: pointer;
+}

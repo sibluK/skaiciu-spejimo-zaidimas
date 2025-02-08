@@ -1,0 +1,12 @@
+.message-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+    background-color: var(--background-color);
+    border-radius: 7px;
+}
+
+.message-icon {
+    width: 30px;
+}
